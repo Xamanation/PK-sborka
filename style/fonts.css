@@ -19,3 +19,15 @@
   font-weight: normal;
   font-style: normal;
 }
+
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto-Medium.eot');
+  src: local('fonts/Roboto Medium'), local('Roboto-Medium'),
+      url('fonts/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Roboto-Medium.woff') format('woff'),
+      url('fonts/Roboto-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
